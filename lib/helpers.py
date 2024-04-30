@@ -42,6 +42,9 @@ def create_department():
 
 def update_department():
     id_ = input("Enter the department's id: ")
+    name = input("Enter the department's name: ")
+    location = input("Enter the department's location: ")
+    
 
 
 def delete_department():
